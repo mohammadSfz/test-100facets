@@ -1,0 +1,25 @@
+[
+    {
+      "type": "DIAGNOSE_HOOK",
+      "title": "Your listening skills and team motivation",
+      "backgroundMedia": { "type": "image", "src": "https://cdn.100facets.ai/content/img01.jpg" },
+      "Content": "Introduces the theme of the journey: understanding how listening skills impact team motivation.",
+      "action": { "type": "button", "data": { "text": "Start button", "action": "changePage", "destination": "#" } }
+    },
+    {
+      "type": "DIAGNOSE_HOOK",
+      "title": "Diving into the deepest dark places",
+      "backgroundMedia": { "type": "image", "src": "https://cdn.100facets.ai/content/img02.jpg" },
+      "Content": "I am a business owner and would like to boost growth by upskilling the people."
+    },
+    {
+      "type": "CONTENT_HOOK",
+      "title": "Collaboration in Practice",
+      "subtitle": "In diverse team relationships",
+      "backgroundMedia": { "type": "video", "src": "https://cdn.100facets.ai/content/vid01.mp4" },
+      "Content": "Your ability to facilitate collaboration and respect diverse perspectives is crucial. This journey focuses on exploring real-world scenarios where your collaborative skills can shine.",
+      "action": { "type": "button", "data": { "text": "Start button", "action": "changePage", "destination": "#" } }
+    }
+  ]
+  
+  
